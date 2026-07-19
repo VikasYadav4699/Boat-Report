@@ -40,6 +40,5 @@ This dashboard addresses these challenges by providing an interactive view of ke
 
 
 ## 📷 Dashboard Preview
-
-
+Customer Repoer:- https://github.com/VikasYadav4699/Boat-Report/blob/main/Customer%20Report.png
 
