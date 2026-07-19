@@ -40,5 +40,6 @@ This dashboard addresses these challenges by providing an interactive view of ke
 
 ## 📷 Dashboard Preview
 Executive Repoer :- https://github.com/VikasYadav4699/Boat-Report/blob/main/Executive%20Report.png
-Customer Repoer:- https://github.com/VikasYadav4699/Boat-Report/blob/main/Customer%20Report.png
+Customers Repoer:- https://github.com/VikasYadav4699/Boat-Report/blob/main/Customer%20Report.png
+Orders & Products Report :- https://github.com/VikasYadav4699/Boat-Report/blob/main/Orders%20%26%20Product%20report.png
 
