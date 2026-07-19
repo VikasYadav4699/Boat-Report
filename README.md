@@ -38,7 +38,7 @@ This dashboard addresses these challenges by providing an interactive view of ke
 - Measured a **20.45%** return rate.
 - Evaluated customer loyalty through new vs repeat customer analysis.
 
-
 ## 📷 Dashboard Preview
+Executive Repoer :- https://github.com/VikasYadav4699/Boat-Report/blob/main/Executive%20Report.png
 Customer Repoer:- https://github.com/VikasYadav4699/Boat-Report/blob/main/Customer%20Report.png
 
